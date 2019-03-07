@@ -1,0 +1,3 @@
+.build/							usr/src/CouchDB-Kitura
+terraform/scripts/install.sh	usr/src/CouchDB-Kitura
+terraform/scripts/start.sh		usr/src/CouchDB-Kitura

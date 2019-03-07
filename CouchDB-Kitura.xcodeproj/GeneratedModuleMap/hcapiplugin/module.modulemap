@@ -1,0 +1,4 @@
+module hcapiplugin {
+    umbrella "/Users/saran/CouchDB-Kitura/.build/checkouts/omr-agentcore-4715221913841893177/src/hcapiplugin/include"
+    export *
+}
